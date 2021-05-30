@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2021 Sergio Aragonés. All rights reserved.
+  ~ Created by Sergio Aragonés on 30/5/2021
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="@string/about" />
+</menu>
